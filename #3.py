@@ -5,4 +5,4 @@ try :
         sum = sum + int(data)
     print(sum)
 except ValueError:
-    print("Input tidak valid")
+    print("Tipe data bukan int")
