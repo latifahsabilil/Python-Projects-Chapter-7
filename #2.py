@@ -1,6 +1,6 @@
 try:
     # membuka dan mau membaca file d:/data.txt
-    file = open("d:/data.txt", "r")
+    file = open("d:/data1.txt", "r")
 
     #baca baris pertama dari file
     #simpan ke dalam variabel bil1 sbg integer
